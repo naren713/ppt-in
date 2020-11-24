@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ppt-in/static/css/main.9cfcb966.chunk.css",
+    "main.js": "/ppt-in/static/js/main.334404af.chunk.js",
+    "main.js.map": "/ppt-in/static/js/main.334404af.chunk.js.map",
+    "runtime-main.js": "/ppt-in/static/js/runtime-main.b60d60b9.js",
+    "runtime-main.js.map": "/ppt-in/static/js/runtime-main.b60d60b9.js.map",
+    "static/css/2.1e691690.chunk.css": "/ppt-in/static/css/2.1e691690.chunk.css",
+    "static/js/2.83ea7af9.chunk.js": "/ppt-in/static/js/2.83ea7af9.chunk.js",
+    "static/js/2.83ea7af9.chunk.js.map": "/ppt-in/static/js/2.83ea7af9.chunk.js.map",
+    "static/js/3.1bcbcf35.chunk.js": "/ppt-in/static/js/3.1bcbcf35.chunk.js",
+    "static/js/3.1bcbcf35.chunk.js.map": "/ppt-in/static/js/3.1bcbcf35.chunk.js.map",
+    "index.html": "/ppt-in/index.html",
+    "static/css/2.1e691690.chunk.css.map": "/ppt-in/static/css/2.1e691690.chunk.css.map",
+    "static/css/main.9cfcb966.chunk.css.map": "/ppt-in/static/css/main.9cfcb966.chunk.css.map",
+    "static/js/2.83ea7af9.chunk.js.LICENSE.txt": "/ppt-in/static/js/2.83ea7af9.chunk.js.LICENSE.txt",
+    "static/media/Dongcheng.54d546bb.png": "/ppt-in/static/media/Dongcheng.54d546bb.png",
+    "static/media/Dongcheng_man.7a261f56.png": "/ppt-in/static/media/Dongcheng_man.7a261f56.png",
+    "static/media/Hikoki_JT.45485404.png": "/ppt-in/static/media/Hikoki_JT.45485404.png",
+    "static/media/Hikoki_drill.7d166e64.png": "/ppt-in/static/media/Hikoki_drill.7d166e64.png",
+    "static/media/Yuri.1f124a71.jpg": "/ppt-in/static/media/Yuri.1f124a71.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b60d60b9.js",
+    "static/css/2.1e691690.chunk.css",
+    "static/js/2.83ea7af9.chunk.js",
+    "static/css/main.9cfcb966.chunk.css",
+    "static/js/main.334404af.chunk.js"
+  ]
+}
